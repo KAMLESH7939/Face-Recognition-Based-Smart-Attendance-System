@@ -42,6 +42,7 @@ Face-Recognition-Based-Smart-Attendance-System/
 └── Attendance/          # Attendance CSV logs
  ```
 ## ⚙️ Installation & Setup
+###
 1️⃣ Clone the Repository
 git clone https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System.git
 cd Face-Recognition-Based-Smart-Attendance-System
