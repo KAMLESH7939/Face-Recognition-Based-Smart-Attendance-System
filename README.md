@@ -93,9 +93,9 @@ streamlit run app.py
 ---
 
 ## 🎯 Future Improvements
- - 1.Upgrade from KNN → Deep Learning (CNN, FaceNet, Dlib) for higher accuracy
- - 2.Store attendance in cloud database (MongoDB/Firebase)
- - 3.Web/Mobile UI for teachers and students
+ - Upgrade from KNN → Deep Learning (CNN, FaceNet, Dlib) for higher accuracy
+ - Store attendance in cloud database (MongoDB/Firebase)
+ - Web/Mobile UI for teachers and students
 ---
 ## 👨‍💻 Author
 Kamlesh
