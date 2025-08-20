@@ -44,17 +44,30 @@ Face-Recognition-Based-Smart-Attendance-System/
 
 ---
 
-## ⚙️ Installation & Setup
-- 1️⃣ Clone the Repository: git clone https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System.git
-     cd Face-Recognition-Based-Smart-Attendance-System
-- 2️⃣ Install Dependencies
-  pip install -r requirements.txt
-- 3️⃣ Run Locally
-  👉 Step 1: Collect face data
-     python add_faces.py
-  👉 Step 2: Run recognition & mark attendance
-      python test.py
-  👉 Step 3: Launch dashboard
+## ⚙️ Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System.git
+cd Face-Recognition-Based-Smart-Attendance-System
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Run Locally
+Step 1: Collect face data
+```bash
+python add_faces.py
+```
+Step 2: Run recognition & mark attendance
+```bash
+python test.py
+```
+Step 3: Launch dashboard
+```bash
+streamlit run app.py
+```
 -streamlit run app.py
 📍 GitHub Repo: https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System
 📍 Streamlit Demo: https://face-recognition-based-smart-attendance-system.streamlit.app
