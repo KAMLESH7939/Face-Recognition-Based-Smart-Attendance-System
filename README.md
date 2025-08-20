@@ -1,6 +1,8 @@
 # 🎓 Face Recognition Based Smart Attendance System  
 
 ## 📌 Overview  
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/793ebf52-d157-4a89-ad64-9bd17fcfbd5d" />
+
 This project implements a **Smart Attendance System** using **Machine Learning (KNN classifier)** and **Computer Vision (OpenCV)**.  
 The system automates the process of marking attendance by recognizing student faces in real time and storing records with timestamps.  
 
