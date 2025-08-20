@@ -68,10 +68,11 @@ Step 3: Launch dashboard
 ```bash
 streamlit run app.py
 ```
--streamlit run app.py
+streamlit run app.py
+```
 📍 GitHub Repo: https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System
 📍 Streamlit Demo: https://face-recognition-based-smart-attendance-system.streamlit.app
-
+```
 ---
 
 ## 📊 Workflow
