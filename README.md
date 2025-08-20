@@ -72,6 +72,8 @@ streamlit run app.py
 
 -📍 GitHub Repo: https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System
 -📍 Streamlit Demo: https://face-recognition-based-smart-attendance-system.streamlit.app
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/6e1ec5d0-5747-4fbd-917a-8785589ad450" />
+
 ---
 
 ## 📊 Workflow
