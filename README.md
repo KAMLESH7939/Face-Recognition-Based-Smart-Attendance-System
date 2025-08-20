@@ -42,13 +42,13 @@ Face-Recognition-Based-Smart-Attendance-System/
 └── Attendance/          # Attendance CSV logs
  ```
 ## ⚙️ Installation & Setup
-###
-1️⃣ Clone the Repository
+
+-1️⃣ Clone the Repository
 git clone https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System.git
 cd Face-Recognition-Based-Smart-Attendance-System
-2️⃣ Install Dependencies
+-2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run Locally
+-3️⃣ Run Locally
 👉 Step 1: Collect face data
 python add_faces.py
 👉 Step 2: Run recognition & mark attendance
