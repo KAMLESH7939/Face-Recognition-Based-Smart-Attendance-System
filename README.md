@@ -68,11 +68,10 @@ Step 3: Launch dashboard
 ```bash
 streamlit run app.py
 ```
-streamlit run app.py
-```
-📍 GitHub Repo: https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System
-📍 Streamlit Demo: https://face-recognition-based-smart-attendance-system.streamlit.app
-```
+### streamlit run app.py
+
+-📍 GitHub Repo: https://github.com/KAMLESH7939/Face-Recognition-Based-Smart-Attendance-System
+-📍 Streamlit Demo: https://face-recognition-based-smart-attendance-system.streamlit.app
 ---
 
 ## 📊 Workflow
@@ -84,11 +83,9 @@ streamlit run app.py
 ---
 
 ## 📌 Notes
--add_faces.py and test.py require local execution (due to webcam & speech).
-
--app.py can be deployed on Streamlit Cloud.
-
--Text-to-speech (TTS) works only on Windows.
+- add_faces.py and test.py require local execution (due to webcam & speech).
+- app.py can be deployed on Streamlit Cloud.
+- Text-to-speech (TTS) works only on Windows.
 ---
 
 ## 🎯 Future Improvements
@@ -98,7 +95,7 @@ streamlit run app.py
 ---
 ## 👨‍💻 Author
 Kamlesh
-🎓 Final Year Student | Passionate about ML, Computer Vision & Accessibility Tech
-🔗 GitHub
+🎓 Final Year Student | Passionate about AI/ML, Computer Vision, MERN Stack development, analysis, research & Accessibility related stufs.
+🔗 GitHub: https://github.com/KAMLESH7939
 
 ✨ This project combines Machine Learning and Computer Vision to create a practical attendance automation system with cloud-based visualization.
